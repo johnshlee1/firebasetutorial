@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "firebasics-e7d3a",
+    "staging": "firebasics-e7d3a"
+  },
+  "targets": {}
+}
